@@ -1,6 +1,8 @@
 Indigo, a cool blue theme for Open edX
 ======================================
 
+mcdaniel: forked from overhangio/tutor-indigo@v18.3.0
+
 Indigo is an elegant, customizable theme for `Open edX <https://openedx.org>`__.
 
 .. image:: ./screenshots/01-landing-page.png
